@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "postId": 1,
+      "content": "Great post!",
+      "author": "Alice",
+      "createdAt": "2024-04-25T09:00:00Z",
+      "updatedAt": "2024-04-25T09:00:00Z"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "content": "I agree with you!",
+      "author": "Bob",
+      "createdAt": "2024-04-25T10:00:00Z",
+      "updatedAt": "2024-04-25T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "content": "Nice post!",
+      "author": "Charlie",
+      "createdAt": "2024-04-26T11:00:00Z",
+      "updatedAt": "2024-04-26T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "postId": 3,
+      "content": "Interesting read.",
+      "author": "David",
+      "createdAt": "2024-04-27T13:00:00Z",
+      "updatedAt": "2024-04-27T13:00:00Z"
+    }
+  ]
+  
